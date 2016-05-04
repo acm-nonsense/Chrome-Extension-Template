@@ -1,4 +1,4 @@
 .snippet
 *.sublime-project
-
+.DS_Store
 *.sublime-workspace
